@@ -1,3 +1,4 @@
+TEST
 ## Setup Test Environment
 
 To start the Docker image you can use the following commands:
